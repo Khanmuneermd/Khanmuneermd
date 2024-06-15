@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Khanmuneermd
+- 👀 I’m interested in Programming 
+- 🌱 I’m currently learning MERN Stack 
+- 💞️ I’m looking to collaborate on Web development projects
+- 📫 How to reach me message me on my email at khanmuneermd@gmail.com
+- 😄 Pronouns: He/him
